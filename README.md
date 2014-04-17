@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [yyx990803/vue](http://github.com/yyx990803/vue). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/yyx990803-vue`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 <p align="center"><a href="http://vuejs.org" target="_blank"><img width="100"src="http://vuejs.org/images/logo.png"></a></p>
 
 # Vue.js [![Build Status](https://travis-ci.org/yyx990803/vue.png?branch=master)](https://travis-ci.org/yyx990803/vue) [![Selenium Test Status](https://saucelabs.com/buildstatus/vuejs)](https://saucelabs.com/u/vuejs) [![Coverage Status](https://coveralls.io/repos/yyx990803/vue/badge.png)](https://coveralls.io/r/yyx990803/vue)
